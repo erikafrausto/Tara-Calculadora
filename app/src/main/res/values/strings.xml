@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalculadoraAyE</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_sum">Sumar</string>
+    <string name="action_res">Restar</string>
+    <string name="action_mul">Multiplicar</string>
+    <string name="action_div">Dividir</string>
+    <string name="action_limp">Limpiar</string>
+</resources>
